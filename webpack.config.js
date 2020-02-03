@@ -37,7 +37,7 @@ module.exports = {
 	},
 	output: {
 		filename: '[name].js',
-		path: path.resolve(__dirname, 'dist') // Compile into a folder called "dist"
+		path: path.resolve(__dirname, 'docs') // Compile into a folder called "dist"
 	},
 
 	plugins: [
