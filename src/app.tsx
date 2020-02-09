@@ -36,8 +36,9 @@ function App() {
 				</marquee>
 			</marquee>
 			<footer>
-				<a href="https://twitter.com/artlastnight">twitter</a> {'&'}{' '}
+
 				<a href="https://www.instagram.com/art.last.night/">instagram</a>
+								
 			</footer>
 		</main>
 	)
